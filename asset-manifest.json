@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/test/static/css/main.7609077a.chunk.css",
+    "main.js": "/test/static/js/main.7af8fecc.chunk.js",
+    "main.js.map": "/test/static/js/main.7af8fecc.chunk.js.map",
+    "runtime-main.js": "/test/static/js/runtime-main.0c1c99e6.js",
+    "runtime-main.js.map": "/test/static/js/runtime-main.0c1c99e6.js.map",
+    "static/js/2.682570c8.chunk.js": "/test/static/js/2.682570c8.chunk.js",
+    "static/js/2.682570c8.chunk.js.map": "/test/static/js/2.682570c8.chunk.js.map",
+    "index.html": "/test/index.html",
+    "precache-manifest.0b4e894f6ddd3f6e3caa70794bc0fdf7.js": "/test/precache-manifest.0b4e894f6ddd3f6e3caa70794bc0fdf7.js",
+    "service-worker.js": "/test/service-worker.js",
+    "static/css/main.7609077a.chunk.css.map": "/test/static/css/main.7609077a.chunk.css.map",
+    "static/js/2.682570c8.chunk.js.LICENSE.txt": "/test/static/js/2.682570c8.chunk.js.LICENSE.txt",
+    "static/media/MotionSensor.jpg": "/test/static/media/MotionSensor.c105b2ba.jpg",
+    "static/media/SmartHub.jpg": "/test/static/media/SmartHub.97382493.jpg",
+    "static/media/SmokeSensor.jpg": "/test/static/media/SmokeSensor.c814870d.jpg",
+    "static/media/WaterLeakSensor.jpg": "/test/static/media/WaterLeakSensor.fa306bb8.jpg",
+    "static/media/WirelessCamera.jpg": "/test/static/media/WirelessCamera.0211f849.jpg",
+    "static/media/App.css": "/test/static/media/cover.64ba16f3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c1c99e6.js",
+    "static/js/2.682570c8.chunk.js",
+    "static/css/main.7609077a.chunk.css",
+    "static/js/main.7af8fecc.chunk.js"
+  ]
+}
