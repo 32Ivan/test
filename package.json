@@ -1,5 +1,5 @@
 {
-  "homepage":"http://32Ivan.github.io/shopping",
+  "homepage": "http://32Ivan.github.io/test",
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
@@ -17,7 +17,7 @@
     "redux-thunk": "^2.3.0"
   },
   "scripts": {
-    "predeploy":"npm run build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
